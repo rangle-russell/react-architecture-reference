@@ -1,0 +1,15 @@
+body {
+  font-size: 100%;
+}
+
+p,
+div,
+span,
+td,
+button {
+  font-size: 1.2rem;
+}
+
+.center {
+  margin: 0 auto;
+}
